@@ -1,0 +1,3 @@
+PKG openfire
+SYSRC openfire_enable=YES
+SERVICE openfire start
